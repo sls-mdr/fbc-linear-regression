@@ -6,5 +6,3 @@ Congratulations, you have received your first order with an ecommerce company fr
 
 ![plot by: Silas Mederer](/figures/regression_predictions.png)
 
-**And ends with these recommendations:**
-Either relaunch the website, so the distance between the app and the website can be reduced, or you really shut down the page and concentrate fully on the app. As it is, both are possible.
